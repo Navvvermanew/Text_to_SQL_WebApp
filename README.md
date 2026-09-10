@@ -171,34 +171,9 @@ The performance of the chatbot can be evaluated using several metrics:
 
 Several improvements can be made to enhance the project:
 
-- **Multiple LLMs**: Experiment with different Large Language Models to improve SQL-generation accuracy.
 - **Advanced Query Validation**: Add additional validation and error-handling mechanisms for generated SQL queries.
 - **Improved User Interface**: Enhance the web interface using Flask, Streamlit, or other modern UI frameworks.
 - **Conversation Memory**: Enable the chatbot to understand follow-up questions using conversational context.
 - **Cloud Deployment**: Deploy the application on cloud platforms for public accessibility.
 - **Database Expansion**: Support multiple databases and larger datasets.
 - **Performance Optimization**: Improve query generation and execution speed.
-
-## 📄 License
-
-This project is licensed under the **MIT License**. See the `LICENSE` file for more details.
-
----
-
-## 🤝 Contributing
-
-Contributions, suggestions, and improvements are welcome.
-
-If you would like to contribute:
-
-1. Fork the repository.
-2. Create a new branch.
-3. Make your changes.
-4. Commit your changes.
-5. Submit a pull request.
-
----
-
-⭐ If you find this project useful, consider giving it a **star** on GitHub!
-
-Happy coding! 🚀
